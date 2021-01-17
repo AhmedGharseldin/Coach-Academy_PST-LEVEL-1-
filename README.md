@@ -1,4 +1,4 @@
-# Coach Academy -PST "LEVEL 1"
+﻿# Coach Academy -PST "LEVEL 1"
 
 Coach Academy is named after the nickname of Coach Mohamed Abd El-Wahab “The Coach”, as he is the most famous Coach in the Arab region and one of the few Coaches worldwide who have qualified the largest number of students to the ICPC.
 
@@ -29,6 +29,9 @@ By the end of the course, you will understand the basics of computer science and
 9.	Dynamic memory
 10.	Bitwise Operators
 
-I was fortunate enough to get this opportunity. I have finished level 1 and inside this folder I will be posting all the practice and contests I solved during my level 1 training.   
+
+I was fortunate enough to get this opportunity. I have finished level 1 and inside this folder I will be posting all the practice and contests I solved during my level 1 training. 
+
+The problem sets are from various different websites, link for each problem will be mentioned above the code for reference.  
 
 This is my journey into computer science :).
